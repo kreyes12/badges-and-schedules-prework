@@ -11,3 +11,6 @@ end
   badge_messages
 end
 
+def assign_rooms(speakers)
+  room_number = 1
+  
